@@ -1,2 +1,0 @@
-add_subdirectory(tfarmcontroller)
-add_subdirectory(tfarmserver)
